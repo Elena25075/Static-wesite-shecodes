@@ -1,0 +1,26 @@
+.btn_about {
+  padding: 10px 25px;
+  border: 1px solid blueviolet;
+  border-radius: 5px;
+  background-color: blueviolet;
+  color: white;
+  text-decoration: none;
+  margin: 20px;
+}
+.btn_contact {
+  text-decoration: none;
+  padding: 10px 25px;
+  border: 1px solid blueviolet;
+  border-radius: 5px;
+  color: blueviolet;
+  margin: 20px;
+}
+.btn_box {
+  text-align: center;
+}
+
+h1,
+h2,
+p {
+  text-align: center;
+}
